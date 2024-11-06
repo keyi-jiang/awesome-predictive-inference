@@ -1,4 +1,4 @@
-# Awesome-Predictive-Inference
+# Awesome Predictive Inference 🌱
 
 ## Journal Papers
 - [ ] [Martingale Posterior Distributions](https://arxiv.org/abs/2103.15671) by Edwin Fong, Chris Holmes, and Stephen Walker (2023) 🚀🚀🚀
