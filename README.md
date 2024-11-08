@@ -2,6 +2,7 @@
 
 ## Foundations
 - [ ] Fong et al. "[Martingale posterior distributions.](https://arxiv.org/abs/2103.15671)" *JRSSB 2023*. 🚀🚀🚀
+- [ ] Holmes et al. "[Statistical Inference with Exchangeabilityand Martingales]()" *RSTA 2023*
 
 ## In-Context Learning
 - [ ] Ye et al. "[Pre-training and in-context learning is Bayesian inference *a la* de Finetti.](https://arxiv.org/abs/2408.03307)"
