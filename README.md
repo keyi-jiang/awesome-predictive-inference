@@ -1,6 +1,7 @@
 # Awesome Predictive Inference 🌱
 
 ## Foundations
+- [ ] Wang et al. "[On Uncertainty Quantification for Near-Bayes Optimal Algorithms.](https://arxiv.org/pdf/2403.19381)" *AABI 2024*.
 - [ ] Fong et al. "[Martingale posterior distributions.](https://arxiv.org/abs/2103.15671)" *JRSSB 2023*. 🚀🚀🚀
 - [ ] Holmes et al. "[Statistical Inference with Exchangeabilityand Martingales.](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0143)" *RSTA 2023*.
 
